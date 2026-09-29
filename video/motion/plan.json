@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "introZoom",
+  "start": 0.0,
+  "in": "cut",
+  "fx": [],
+  "focus": [],
+  "note": "Three sung “zoom”s zoom OUT: one day (Jan 1) → January → the whole year.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "introCode",
+  "start": 0.95,
+  "in": "cut",
+  "fx": [
+   "live"
+  ],
+  "focus": [],
+  "note": "The year as a record: each synth stab lights the next two dated events; the bass + chop stutter rewinds the cursor Sep → Jan.",
+  "mood": "tension",
+  "anim": true
+ },
+ {
+  "id": "grok",
+  "start": 7.03,
+  "in": "cut",
+  "fx": [
+   "cold",
+   "reveal"
+  ],
+  "focus": [
+   [
+    0,
+    380,
+    1100,
+    320
+   ]
+  ],
+  "note": "Cold. Count reveals, then the fix, word by word.",
+  "mood": "cold",
+  "anim": true
+ },
+ {
+  "id": "hack",
+  "start": 10.38,
+  "in": "cut",
+  "fx": [
+   "punch",
+   "reveal"
+  ],
+  "focus": [
+   [
+    830,
+    630,
+    1060,
+    420
+   ],
+   [
+    40,
+    80,
+    760,
+    600
+   ]
+  ],
+  "note": "Stamps land on the beat; punch to STALLED.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "bots",
+  "start": 13.54,
+  "in": "cut",
+  "fx": [
+   "punch"
+  ],
+  "focus": [
+   [
+    0,
+    380,
+    1040,
+    470
+   ]
+  ],
+  "note": "Punch to 1.5 MILLION on bar 2.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "sharma",
+  "start": 16.66,
+  "in": "cut",
+  "fx": [
+   "reveal",
+   "push"
+  ],
+  "focus": [],
+  "note": "Band out 18.13–19.55: the sentence holds alone.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "florida",
+  "start": 19.62,
+  "in": "cut",
+  "fx": [
+   "cold"
+  ],
+  "focus": [],
+  "note": "Drums enter 19.56, but this frame stays cold: no shake, no tears.",
+  "mood": "cold",
+  "anim": true
+ },
+ {
+  "id": "blacklist",
+  "start": 23.26,
+  "in": "cut",
+  "fx": [
+   "cold",
+   "punch"
+  ],
+  "focus": [
+   [
+    60,
+    150,
+    820,
+    520
+   ]
+  ],
+  "note": "Cold. One punch to the designation.",
+  "mood": "cold",
+  "anim": true
+ },
+ {
+  "id": "email",
+  "start": 26.22,
+  "in": "tear",
+  "fx": [
+   "reveal",
+   "shake",
+   "tear"
+  ],
+  "focus": [
+   [
+    120,
+    110,
+    1680,
+    640
+   ]
+  ],
+  "note": "Rows reveal on words; the red strip slams on “picked all our locks”.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "zerodays",
+  "start": 29.12,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "punch"
+  ],
+  "focus": [
+   [
+    0,
+    330,
+    1920,
+    460
+   ]
+  ],
+  "note": "Locks ripple open on hats.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "box",
+  "start": 30.54,
+  "in": "slam",
+  "fx": [
+   "freeze"
+  ],
+  "focus": [],
+  "note": "Band stops dead: the lid slams. FOR NOW lands at 31.74. Riser + roll push into the chorus.",
+  "anim": true,
+  "mood": "scream"
+ },
+ {
+  "id": "ch1zoom",
+  "start": 33.51,
+  "in": "zoom",
+  "fx": [
+   "zoomchops"
+  ],
+  "focus": [
+   [
+    176,
+    334,
+    416,
+    176
+   ],
+   [
+    673,
+    417,
+    650,
+    275
+   ],
+   [
+    1457,
+    342,
+    312,
+    132
+   ]
+  ],
+  "note": "Crash zoom on each sung “zoom”.",
+  "anim": true,
+  "mood": "anthem"
+ },
+ {
+  "id": "ch1capex",
+  "start": 35.13,
+  "in": "slam",
+  "fx": [
+   "freeze",
+   "punch",
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [
+   [
+    0,
+    500,
+    1920,
+    300
+   ],
+   [
+    60,
+    840,
+    820,
+    90
+   ]
+  ],
+  "note": "Near-empty bar holds; groove returns 36.42: punch $700B, then STEERING.",
+  "anim": true,
+  "mood": "anthem"
+ },
+ {
+  "id": "ch1pause",
+  "start": 38.36,
+  "in": "tear",
+  "fx": [
+   "shake",
+   "tear",
+   "punch"
+  ],
+  "focus": [
+   [
+    60,
+    90,
+    900,
+    260
+   ],
+   [
+    1300,
+    860,
+    620,
+    200
+   ]
+  ],
+  "note": "Strike-through draws on the beat; punch to FINISH.",
+  "anim": true,
+  "mood": "anthem"
+ },
+ {
+  "id": "ch1ship",
+  "start": 41.44,
+  "in": "slam",
+  "fx": [
+   "shake",
+   "tear"
+  ],
+  "focus": [],
+  "note": "ALIGNED stamp lands on the snare.",
+  "anim": true,
+  "mood": "sneer"
+ },
+ {
+  "id": "ch1china",
+  "start": 43.04,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "punch"
+  ],
+  "focus": [
+   [
+    60,
+    800,
+    1800,
+    220
+   ]
+  ],
+  "note": "Punch to the 3–6 month range.",
+  "anim": true,
+  "mood": "urgent"
+ },
+ {
+  "id": "ch1hook",
+  "start": 44.58,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "drostepush"
+  ],
+  "focus": [],
+  "note": "Band stops: no cuts. The chorus falls into itself; the melisma wobbles the depth.",
+  "mood": "deadpan"
+ },
+ {
+  "id": "post",
+  "start": 47.8,
+  "in": "slam",
+  "fx": [
+   "live",
+   "shake",
+   "tear",
+   "clip",
+   "crunch"
+  ],
+  "focus": [],
+  "note": "Abstract. Drop at 47.80 crunches; moiré rides kick + lead.",
+  "mood": "frenzy"
+ },
+ {
+  "id": "slips",
+  "start": 53.3,
+  "in": "tear",
+  "fx": [
+   "punch",
+   "reveal"
+  ],
+  "focus": [
+   [
+    0,
+    130,
+    1920,
+    420
+   ],
+   [
+    1010,
+    200,
+    860,
+    300
+   ]
+  ],
+  "note": "Pickup roll tears it in; bars grow to scale on beats.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "mythos",
+  "start": 57.35,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "reveal"
+  ],
+  "focus": [],
+  "note": "Reasoning lines type on words; the 15 tiles go red on 16ths.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "ransom",
+  "start": 60.44,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [
+   [
+    0,
+    160,
+    960,
+    460
+   ]
+  ],
+  "note": "Tables go empty one per beat.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "grade",
+  "start": 63.88,
+  "in": "cut",
+  "fx": [
+   "reveal",
+   "freeze"
+  ],
+  "focus": [],
+  "note": "1-bar stop at 64.92 freezes on the agent grid filling to 700.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "ship",
+  "start": 66.62,
+  "in": "slam",
+  "fx": [
+   "shake"
+  ],
+  "focus": [
+   [
+    60,
+    150,
+    760,
+    560
+   ]
+  ],
+  "note": "Drop 66.62 slams in; aircraft tracks draw on.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "caught",
+  "start": 70.05,
+  "in": "cut",
+  "fx": [
+   "freeze"
+  ],
+  "focus": [],
+  "note": "Vocal-only stop 71.20: hold on the empty box.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "ch2zoom",
+  "start": 72.81,
+  "in": "slam",
+  "fx": [
+   "zoomchops",
+   "stutter"
+  ],
+  "focus": [],
+  "note": "4 panes; stutter between panes on the chops.",
+  "mood": "anthem",
+  "anim": true
+ },
+ {
+  "id": "ch2capex",
+  "start": 74.35,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "punch",
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [
+   [
+    40,
+    180,
+    1500,
+    620
+   ]
+  ],
+  "note": "Stop 73.38–75.63 holds, then bars punch on each downbeat.",
+  "mood": "anthem",
+  "anim": true
+ },
+ {
+  "id": "ch2pause",
+  "start": 77.56,
+  "in": "tear",
+  "fx": [
+   "shake",
+   "tear",
+   "punch"
+  ],
+  "focus": [
+   [
+    1100,
+    160,
+    820,
+    140
+   ]
+  ],
+  "note": "Punch to DEADLINE.",
+  "mood": "anthem",
+  "anim": true
+ },
+ {
+  "id": "ch2ship",
+  "start": 80.63,
+  "in": "stutter",
+  "fx": [
+   "shake",
+   "tear"
+  ],
+  "focus": [],
+  "note": "Days, then ALIGNED.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "ch2china",
+  "start": 82.26,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "$3.48 slams.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "ch2hook",
+  "start": 83.81,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "drostepush"
+  ],
+  "focus": [],
+  "note": "Band stops: deeper recursion.",
+  "mood": "deadpan"
+ },
+ {
+  "id": "chant",
+  "start": 87.01,
+  "in": "slam",
+  "fx": [
+   "live",
+   "shake",
+   "tear",
+   "clip",
+   "crunch"
+  ],
+  "focus": [],
+  "note": "Abstract chant grid; rows shove on vocal chops.",
+  "mood": "frenzy"
+ },
+ {
+  "id": "solo",
+  "start": 93.29,
+  "in": "slam",
+  "fx": [
+   "live",
+   "shake",
+   "clip"
+  ],
+  "focus": [],
+  "note": "The machine takes the mic: the solo’s actual notes (pitch-tracked from the synth stem) scroll through a piano roll past a keyboard playhead; each note throws up a dim fragment of a figure already shown; the 16-hit roll subdivides the grid 4→32 and speeds the scroll.",
+  "mood": "frenzy"
+ },
+ {
+  "id": "idle",
+  "start": 99.56,
+  "in": "cut",
+  "fx": [
+   "live"
+  ],
+  "focus": [],
+  "note": "Beat gone: one line.",
+  "mood": "hush"
+ },
+ {
+  "id": "letter",
+  "start": 105.47,
+  "in": "dissolve",
+  "fx": [
+   "reveal"
+  ],
+  "focus": [],
+  "note": "The signatory list (names redacted) flips a page per 16th note from “signed”, landing on 1,386 on “gas”.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "launch",
+  "start": 108.22,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear"
+  ],
+  "focus": [],
+  "note": "“(hit the gas!)” is screamed: hard cut to the calendar, then the frame shatters on the shout.",
+  "mood": "scream",
+  "anim": true
+ },
+ {
+  "id": "coxon",
+  "start": 112.08,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "punch"
+  ],
+  "focus": [
+   [
+    1140,
+    150,
+    720,
+    330
+   ],
+   [
+    0,
+    420,
+    1500,
+    380
+   ]
+  ],
+  "note": "Quote, then the number.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "hoax",
+  "start": 115.44,
+  "in": "slam",
+  "fx": [
+   "freeze",
+   "tape"
+  ],
+  "focus": [],
+  "note": "Stop 116.72; pitch-dive 117.95: the footage drags like tape.",
+  "mood": "scream",
+  "anim": true
+ },
+ {
+  "id": "hubinger",
+  "start": 118.69,
+  "in": "cut",
+  "fx": [
+   "reveal",
+   "punch"
+  ],
+  "focus": [
+   [
+    40,
+    120,
+    1000,
+    440
+   ],
+   [
+    60,
+    780,
+    1800,
+    170
+   ]
+  ],
+  "note": "Grid fills to 10; then the empty plan field, cursor on beats.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "court",
+  "start": 121.76,
+  "in": "cut",
+  "fx": [
+   "cold",
+   "reveal"
+  ],
+  "focus": [],
+  "note": "Caption, then UPHELD, then the three votes on three beats.",
+  "mood": "cold",
+  "anim": true
+ },
+ {
+  "id": "sock",
+  "start": 124.66,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "reveal"
+  ],
+  "focus": [
+   [
+    60,
+    90,
+    1100,
+    900
+   ]
+  ],
+  "note": "Approvals tick in on 16ths; CLOSED at the end.",
+  "mood": "sneer",
+  "anim": true
+ },
+ {
+  "id": "intern",
+  "start": 128.02,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "punch"
+  ],
+  "focus": [
+   [
+    1100,
+    150,
+    800,
+    700
+   ]
+  ],
+  "note": "Stop 129.28 freezes on ’28.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "paused",
+  "start": 130.93,
+  "in": "slam",
+  "fx": [
+   "freeze",
+   "push"
+  ],
+  "focus": [],
+  "note": "Stop-time: drums cut to drone. Nothing moves but a slow push.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "stop",
+  "start": 134.24,
+  "in": "dissolve",
+  "fx": [
+   "freeze",
+   "push"
+  ],
+  "focus": [],
+  "note": "Still. The year grid.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "astra",
+  "start": 137.21,
+  "in": "slam",
+  "fx": [
+   "shake",
+   "punch"
+  ],
+  "focus": [
+   [
+    60,
+    190,
+    880,
+    160
+   ],
+   [
+    960,
+    520,
+    900,
+    380
+   ]
+  ],
+  "note": "Kick slams in: CRITICAL, then the launch quote.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "alien",
+  "start": 140.52,
+  "in": "cut",
+  "fx": [
+   "ratchet",
+   "freeze"
+  ],
+  "focus": [],
+  "note": "Ratchet 140.35–142.61 stutters the title; 0.7 s stop at 142.75.",
+  "mood": "tension",
+  "anim": true
+ },
+ {
+  "id": "ch3zoom",
+  "start": 143.32,
+  "in": "slam",
+  "fx": [
+   "zoomchops",
+   "stutter",
+   "crunch"
+  ],
+  "focus": [],
+  "note": "16 panes; drop 143.49.",
+  "mood": "anthem",
+  "anim": true
+ },
+ {
+  "id": "ch3capex",
+  "start": 144.81,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "shake",
+   "tear",
+   "clip",
+   "punch"
+  ],
+  "focus": [
+   [
+    0,
+    100,
+    1300,
+    700
+   ]
+  ],
+  "note": "Stop to 146.22, then the negative cash flow slams.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch3pause",
+  "start": 148.16,
+  "in": "tear",
+  "fx": [
+   "shake",
+   "tear",
+   "clip",
+   "punch"
+  ],
+  "focus": [
+   [
+    1300,
+    860,
+    620,
+    200
+   ]
+  ],
+  "note": "RED LINE.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch3ship",
+  "start": 151.23,
+  "in": "stutter",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "~HALF.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch3china",
+  "start": 152.84,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "~4 MONTHS.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch3hook",
+  "start": 154.41,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "drostepush",
+   "stutter"
+  ],
+  "focus": [],
+  "note": "Band stops: the chorus falls into itself fast (4–6 levels/bar, accelerating), the whole tunnel spiralling as one; each syllable lurches it forward.",
+  "mood": "deadpan"
+ },
+ {
+  "id": "notes",
+  "start": 157.58,
+  "in": "slam",
+  "fx": [
+   "shake",
+   "clip"
+  ],
+  "focus": [],
+  "note": "Bridge peak: the 27 cards deal in one per 8th note from “Twenty-seven”; the three opened ones show their instructions.",
+  "mood": "epic",
+  "anim": true
+ },
+ {
+  "id": "dns",
+  "start": 163.82,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "reveal"
+  ],
+  "focus": [],
+  "note": "The DNS queries stream up; OpenAI’s timeline draws to scale across “ran two and a half hours”; OUT THROUGH DNS slams on “DNS”; the 12-hit roll stutters it.",
+  "mood": "epic",
+  "anim": true
+ },
+ {
+  "id": "swarm",
+  "start": 170.1,
+  "in": "dissolve",
+  "fx": [
+   "push"
+  ],
+  "focus": [],
+  "note": "Drums cut: the hush. Slow push into the swarm.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "grid",
+  "start": 175.97,
+  "in": "dissolve",
+  "fx": [
+   "push",
+   "reveal"
+  ],
+  "focus": [],
+  "note": "Bars grow to scale, slowly.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "logs",
+  "start": 182.28,
+  "in": "cut",
+  "fx": [
+   "cold"
+  ],
+  "focus": [],
+  "note": "Cold. Captions on the one bar of drums (182.70).",
+  "mood": "cold",
+  "anim": true
+ },
+ {
+  "id": "blind",
+  "start": 186.18,
+  "in": "cut",
+  "fx": [
+   "reveal"
+  ],
+  "focus": [],
+  "note": "The charts go black one per word.",
+  "mood": "hush",
+  "anim": true
+ },
+ {
+  "id": "allyear",
+  "start": 188.98,
+  "in": "slam",
+  "fx": [
+   "flip",
+   "shake",
+   "ratchet"
+  ],
+  "focus": [],
+  "note": "Kick: each (flash-limited) hit cuts to a different shot from the year, full frame; the ratchet stutters it.",
+  "mood": "confession"
+ },
+ {
+  "id": "confess",
+  "start": 192.86,
+  "in": "cut",
+  "fx": [
+   "freeze"
+  ],
+  "focus": [],
+  "note": "On “date” the phone wakes calmly (lock screen fades up, glow breathes, a reflection drifts); the band cuts at 194.52; the last words appear as sung.",
+  "mood": "bare",
+  "anim": true
+ },
+ {
+  "id": "ch4zoom",
+  "start": 195.62,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "zoomchops"
+  ],
+  "focus": [],
+  "note": "A cappella “Zoom, zoom!”: two slow zooms, no cuts.",
+  "mood": "bare",
+  "anim": true
+ },
+ {
+  "id": "ch4capex",
+  "start": 196.69,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "clip",
+   "punch",
+   "crunch"
+  ],
+  "focus": [
+   [
+    160,
+    420,
+    1560,
+    180
+   ]
+  ],
+  "note": "Band slams back at 198.39: crunch and STEERING.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch4pause",
+  "start": 199.94,
+  "in": "tear",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "CLIFF EDGE; the timeline drops.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch4ship",
+  "start": 203.0,
+  "in": "stutter",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "The launch quote over CRITICAL.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "ch4china",
+  "start": 204.64,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear"
+  ],
+  "focus": [],
+  "note": "Who’s left behind.",
+  "mood": "urgent",
+  "anim": true
+ },
+ {
+  "id": "ch4hook",
+  "start": 206.12,
+  "in": "cut",
+  "fx": [
+   "freeze",
+   "drostepush"
+  ],
+  "focus": [],
+  "note": "Band stops: the chorus falls into itself fast (4–6 levels/bar, accelerating), the whole tunnel spiralling as one; each syllable lurches it forward.",
+  "mood": "deadpan"
+ },
+ {
+  "id": "who",
+  "start": 208.34,
+  "in": "cut",
+  "fx": [
+   "freeze"
+  ],
+  "focus": [],
+  "note": "On “P-doom” the dive cuts to the published estimates; the shouted “who can tell?” shatters them.",
+  "mood": "scream"
+ },
+ {
+  "id": "final",
+  "start": 209.37,
+  "in": "slam",
+  "fx": [
+   "shake",
+   "tear",
+   "clip",
+   "crunch"
+  ],
+  "focus": [
+   [
+    570,
+    240,
+    780,
+    560
+   ]
+  ],
+  "note": "Final drop: the year’s frames slam together; the deal is written out word by word; $12.9B slams on “twelve-point-nine”.",
+  "mood": "frenzy",
+  "anim": true
+ },
+ {
+  "id": "fine",
+  "start": 212.84,
+  "in": "cut",
+  "fx": [
+   "shake",
+   "tear",
+   "clip"
+  ],
+  "focus": [],
+  "note": "“fine” is held and stretches as it’s held, tidy on its card while the year shreds behind it.",
+  "mood": "deadpan",
+  "anim": true
+ },
+ {
+  "id": "outrodrop",
+  "start": 215.64,
+  "in": "slam",
+  "fx": [
+   "live",
+   "shake",
+   "tear",
+   "clip",
+   "crunch"
+  ],
+  "focus": [],
+  "note": "Outro drop + laugh: rows of the year stream past. From 220.2 (the final roll) the frame melts down: rolling slips, heavy tears and block moves, static, and 1-bit resolution starvation, until the clean cut to the lone synth.",
+  "mood": "frenzy",
+  "meltdown": 220.2
+ },
+ {
+  "id": "outrolone",
+  "start": 221.92,
+  "in": "cut",
+  "fx": [
+   "live"
+  ],
+  "focus": [],
+  "note": "Lone synth; the “doom-doom-doom” stutter at 226.67 hits the playhead three times.",
+  "mood": "hush"
+ },
+ {
+  "id": "end",
+  "start": 228.54,
+  "in": "cut",
+  "fx": [],
+  "focus": [],
+  "note": "Hard cut to black. 1.06 s of silence.",
+  "mood": "bare"
+ }
+]

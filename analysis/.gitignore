@@ -1,0 +1,5 @@
+.venv/
+.cache/
+work/
+allin1env/.venv/
+__pycache__/

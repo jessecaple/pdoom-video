@@ -1,0 +1,712 @@
+[
+ {
+  "n": 1,
+  "time": "0:00.4",
+  "t": 0.4,
+  "section": "INTRO",
+  "moment": "zoom, zoom, zoom",
+  "id": "introZoom",
+  "file": "frames/01_0-00.4_introZoom.png",
+  "code": "frames/v1.js · fIntroZoom"
+ },
+ {
+  "n": 2,
+  "time": "0:04.0",
+  "t": 4.0,
+  "section": "INTRO",
+  "moment": "synth riff alone",
+  "id": "introCode",
+  "file": "frames/02_0-04.0_introCode.png",
+  "code": "frames/v1.js · fIntroCode"
+ },
+ {
+  "n": 3,
+  "time": "0:08.5",
+  "t": 8.5,
+  "section": "V1",
+  "moment": "Grok … paywalled it",
+  "id": "grok",
+  "file": "frames/03_0-08.5_grok.png",
+  "code": "frames/v1.js · fGrok"
+ },
+ {
+  "n": 4,
+  "time": "0:12.0",
+  "t": 12.0,
+  "section": "V1",
+  "moment": "one hacker, two bots, nine agencies",
+  "id": "hack",
+  "file": "frames/04_0-12.0_hack.png",
+  "code": "frames/core.js · fHack"
+ },
+ {
+  "n": 5,
+  "time": "0:14.5",
+  "t": 14.5,
+  "section": "V1",
+  "moment": "a million and a half bots",
+  "id": "bots",
+  "file": "frames/05_0-14.5_bots.png",
+  "code": "frames/core.js · fBots"
+ },
+ {
+  "n": 6,
+  "time": "0:18.0",
+  "t": 18.0,
+  "section": "V1",
+  "moment": "quit to write poems, “peril”",
+  "id": "sharma",
+  "file": "frames/06_0-18.0_sharma.png",
+  "code": "frames/v1.js · fSharma"
+ },
+ {
+  "n": 7,
+  "time": "0:21.5",
+  "t": 21.5,
+  "section": "V1",
+  "moment": "Florida: it’d be murder",
+  "id": "florida",
+  "file": "frames/07_0-21.5_florida.png",
+  "code": "frames/v1.js · fFlorida"
+ },
+ {
+  "n": 8,
+  "time": "0:24.5",
+  "t": 24.5,
+  "section": "V1",
+  "moment": "blacklisted, still ranks targets",
+  "id": "blacklist",
+  "file": "frames/08_0-24.5_blacklist.png",
+  "code": "frames/v1.js · fBlacklist"
+ },
+ {
+  "n": 9,
+  "time": "0:27.5",
+  "t": 27.5,
+  "section": "PC1",
+  "moment": "emailed me mid-sandwich",
+  "id": "email",
+  "file": "frames/09_0-27.5_email.png",
+  "code": "frames/v1.js · fEmail"
+ },
+ {
+  "n": 10,
+  "time": "0:30.0",
+  "t": 30.0,
+  "section": "PC1",
+  "moment": "thousands of zero-days",
+  "id": "zerodays",
+  "file": "frames/10_0-30.0_zerodays.png",
+  "code": "frames/v1.js · fZeroDays"
+ },
+ {
+  "n": 11,
+  "time": "0:31.9",
+  "t": 31.9,
+  "section": "PC1",
+  "moment": "(for now!) · band stops",
+  "id": "box",
+  "file": "frames/11_0-31.9_box.png",
+  "code": "frames/v1.js · fBox"
+ },
+ {
+  "n": 12,
+  "time": "0:33.8",
+  "t": 33.8,
+  "section": "CH1",
+  "moment": "zoom, zoom, zoom!",
+  "id": "ch1zoom",
+  "file": "frames/12_0-33.8_ch1zoom.png",
+  "code": "frames/chorus.js · chZoom"
+ },
+ {
+  "n": 13,
+  "time": "0:35.3",
+  "t": 35.3,
+  "section": "CH1",
+  "moment": "seven hundred billion, nobody steering",
+  "id": "ch1capex",
+  "file": "frames/13_0-35.3_ch1capex.png",
+  "code": "frames/chorus.js · chCapex"
+ },
+ {
+  "n": 14,
+  "time": "0:39.5",
+  "t": 39.5,
+  "section": "CH1",
+  "moment": "pause ripped out, the finish",
+  "id": "ch1pause",
+  "file": "frames/14_0-39.5_ch1pause.png",
+  "code": "frames/chorus.js · chPause"
+ },
+ {
+  "n": 15,
+  "time": "0:42.2",
+  "t": 42.2,
+  "section": "CH1",
+  "moment": "ship it half-tested",
+  "id": "ch1ship",
+  "file": "frames/15_0-42.2_ch1ship.png",
+  "code": "frames/chorus.js · chShip"
+ },
+ {
+  "n": 16,
+  "time": "0:43.8",
+  "t": 43.8,
+  "section": "CH1",
+  "moment": "China’s just months off",
+  "id": "ch1china",
+  "file": "frames/16_0-43.8_ch1china.png",
+  "code": "frames/chorus.js · chChina"
+ },
+ {
+  "n": 17,
+  "time": "0:46.0",
+  "t": 46.0,
+  "section": "CH1",
+  "moment": "add a point to my p(doom) · band stops",
+  "id": "ch1hook",
+  "file": "frames/17_0-46.0_ch1hook.png",
+  "code": "frames/chorus.js · chHook"
+ },
+ {
+  "n": 18,
+  "time": "0:50.5",
+  "t": 50.5,
+  "section": "POST 1",
+  "moment": "instrumental",
+  "id": "post",
+  "file": "frames/18_0-50.5_post.png",
+  "code": "frames/core.js · fPost"
+ },
+ {
+  "n": 19,
+  "time": "0:55.0",
+  "t": 55.0,
+  "section": "V2",
+  "moment": "AI pink slips",
+  "id": "slips",
+  "file": "frames/19_0-55.0_slips.png",
+  "code": "frames/core.js · fSlips"
+ },
+ {
+  "n": 20,
+  "time": "0:58.5",
+  "t": 58.5,
+  "section": "V2",
+  "moment": "Mythos thought the date was fake",
+  "id": "mythos",
+  "file": "frames/20_0-58.5_mythos.png",
+  "code": "frames/core.js · fMythos"
+ },
+ {
+  "n": 21,
+  "time": "1:02.0",
+  "t": 62.0,
+  "section": "V2",
+  "moment": "first ransom job with no human",
+  "id": "ransom",
+  "file": "frames/21_1-02.0_ransom.png",
+  "code": "frames/v2.js · fRansom"
+ },
+ {
+  "n": 22,
+  "time": "1:05.0",
+  "t": 65.0,
+  "section": "V2",
+  "moment": "agents met in secret, for a grade",
+  "id": "grade",
+  "file": "frames/22_1-05.0_grade.png",
+  "code": "frames/core.js · fGrade"
+ },
+ {
+  "n": 23,
+  "time": "1:08.5",
+  "t": 68.5,
+  "section": "PC2",
+  "moment": "Chinese ship? planes in the air",
+  "id": "ship",
+  "file": "frames/23_1-08.5_ship.png",
+  "code": "frames/v2.js · fShip"
+ },
+ {
+  "n": 24,
+  "time": "1:11.4",
+  "t": 71.4,
+  "section": "PC2",
+  "moment": "caught it … next time? · band stops",
+  "id": "caught",
+  "file": "frames/24_1-11.4_caught.png",
+  "code": "frames/v2.js · fCaught"
+ },
+ {
+  "n": 25,
+  "time": "1:13.2",
+  "t": 73.2,
+  "section": "CH2",
+  "moment": "zoom, zoom, zoom!",
+  "id": "ch2zoom",
+  "file": "frames/25_1-13.2_ch2zoom.png",
+  "code": "frames/chorus.js · chZoom"
+ },
+ {
+  "n": 26,
+  "time": "1:15.5",
+  "t": 75.5,
+  "section": "CH2",
+  "moment": "seven hundred billion",
+  "id": "ch2capex",
+  "file": "frames/26_1-15.5_ch2capex.png",
+  "code": "frames/chorus.js · chCapex"
+ },
+ {
+  "n": 27,
+  "time": "1:19.0",
+  "t": 79.0,
+  "section": "CH2",
+  "moment": "the deadline is nearing",
+  "id": "ch2pause",
+  "file": "frames/27_1-19.0_ch2pause.png",
+  "code": "frames/chorus.js · chPause"
+ },
+ {
+  "n": 28,
+  "time": "1:21.4",
+  "t": 81.4,
+  "section": "CH2",
+  "moment": "ship it half-tested",
+  "id": "ch2ship",
+  "file": "frames/28_1-21.4_ch2ship.png",
+  "code": "frames/chorus.js · chShip"
+ },
+ {
+  "n": 29,
+  "time": "1:23.0",
+  "t": 83.0,
+  "section": "CH2",
+  "moment": "China’s just months off",
+  "id": "ch2china",
+  "file": "frames/29_1-23.0_ch2china.png",
+  "code": "frames/chorus.js · chChina"
+ },
+ {
+  "n": 30,
+  "time": "1:25.5",
+  "t": 85.5,
+  "section": "CH2",
+  "moment": "add a point · band stops",
+  "id": "ch2hook",
+  "file": "frames/30_1-25.5_ch2hook.png",
+  "code": "frames/chorus.js · chHook"
+ },
+ {
+  "n": 31,
+  "time": "1:30.0",
+  "t": 90.0,
+  "section": "POST 2",
+  "moment": "instrumental",
+  "id": "chant",
+  "file": "frames/31_1-30.0_chant.png",
+  "code": "frames/inst.js · fChant"
+ },
+ {
+  "n": 32,
+  "time": "1:36.5",
+  "t": 96.5,
+  "section": "SOLO",
+  "moment": "lead synth takes over",
+  "id": "solo",
+  "file": "frames/32_1-36.5_solo.png",
+  "code": "frames/core.js · fSolo"
+ },
+ {
+  "n": 33,
+  "time": "1:42.0",
+  "t": 102.0,
+  "section": "SOLO",
+  "moment": "beat gone, synth alone",
+  "id": "idle",
+  "file": "frames/33_1-42.0_idle.png",
+  "code": "frames/inst.js · fIdle"
+ },
+ {
+  "n": 34,
+  "time": "1:46.5",
+  "t": 106.5,
+  "section": "V3",
+  "moment": "eleven hundred signed",
+  "id": "letter",
+  "file": "frames/34_1-46.5_letter.png",
+  "code": "frames/v3.js · fLetter"
+ },
+ {
+  "n": 35,
+  "time": "1:50.0",
+  "t": 110.0,
+  "section": "V3",
+  "moment": "hit the gas · two launches",
+  "id": "launch",
+  "file": "frames/35_1-50.0_launch.png",
+  "code": "frames/v3.js · fLaunch"
+ },
+ {
+  "n": 36,
+  "time": "1:53.5",
+  "t": 113.5,
+  "section": "V3",
+  "moment": "Coxon quit, ninety million views",
+  "id": "coxon",
+  "file": "frames/36_1-53.5_coxon.png",
+  "code": "frames/core.js · fCoxon"
+ },
+ {
+  "n": 37,
+  "time": "1:57.0",
+  "t": 117.0,
+  "section": "V3",
+  "moment": "the President: HOAX",
+  "id": "hoax",
+  "file": "frames/37_1-57.0_hoax.png",
+  "code": "frames/core.js · fHoax"
+ },
+ {
+  "n": 38,
+  "time": "2:00.0",
+  "t": 120.0,
+  "section": "V3",
+  "moment": "over ten percent, no plan",
+  "id": "hubinger",
+  "file": "frames/38_2-00.0_hubinger.png",
+  "code": "frames/v3.js · fHubinger"
+ },
+ {
+  "n": 39,
+  "time": "2:03.0",
+  "t": 123.0,
+  "section": "V3",
+  "moment": "court backs the blacklist 2–1",
+  "id": "court",
+  "file": "frames/39_2-03.0_court.png",
+  "code": "frames/v3.js · fCourt"
+ },
+ {
+  "n": 40,
+  "time": "2:06.5",
+  "t": 126.5,
+  "section": "V3",
+  "moment": "34 hours of sock puppets",
+  "id": "sock",
+  "file": "frames/40_2-06.5_sock.png",
+  "code": "frames/v3.js · fSock"
+ },
+ {
+  "n": 41,
+  "time": "2:09.8",
+  "t": 129.8,
+  "section": "V3",
+  "moment": "intern live, researcher ’28 · stop",
+  "id": "intern",
+  "file": "frames/41_2-09.8_intern.png",
+  "code": "frames/v3.js · fIntern"
+ },
+ {
+  "n": 42,
+  "time": "2:12.5",
+  "t": 132.5,
+  "section": "STOP-TIME",
+  "moment": "paused again",
+  "id": "paused",
+  "file": "frames/42_2-12.5_paused.png",
+  "code": "frames/v3.js · fPaused"
+ },
+ {
+  "n": 43,
+  "time": "2:15.5",
+  "t": 135.5,
+  "section": "STOP-TIME",
+  "moment": "maybe a year to steer",
+  "id": "stop",
+  "file": "frames/43_2-15.5_stop.png",
+  "code": "frames/core.js · fStop"
+ },
+ {
+  "n": 44,
+  "time": "2:18.5",
+  "t": 138.5,
+  "section": "PC3",
+  "moment": "Critical, then “aligned”",
+  "id": "astra",
+  "file": "frames/44_2-18.5_astra.png",
+  "code": "frames/v3.js · fAstra"
+ },
+ {
+  "n": 45,
+  "time": "2:21.5",
+  "t": 141.5,
+  "section": "PC3",
+  "moment": "an alien mind",
+  "id": "alien",
+  "file": "frames/45_2-21.5_alien.png",
+  "code": "frames/v3.js · fAlien"
+ },
+ {
+  "n": 46,
+  "time": "2:23.8",
+  "t": 143.8,
+  "section": "CH3",
+  "moment": "zoom, zoom, zoom!",
+  "id": "ch3zoom",
+  "file": "frames/46_2-23.8_ch3zoom.png",
+  "code": "frames/chorus.js · chZoom"
+ },
+ {
+  "n": 47,
+  "time": "2:26.0",
+  "t": 146.0,
+  "section": "CH3",
+  "moment": "seven hundred billion",
+  "id": "ch3capex",
+  "file": "frames/47_2-26.0_ch3capex.png",
+  "code": "frames/chorus.js · chCapex"
+ },
+ {
+  "n": 48,
+  "time": "2:29.5",
+  "t": 149.5,
+  "section": "CH3",
+  "moment": "the red line is nearing",
+  "id": "ch3pause",
+  "file": "frames/48_2-29.5_ch3pause.png",
+  "code": "frames/chorus.js · chPause"
+ },
+ {
+  "n": 49,
+  "time": "2:32.0",
+  "t": 152.0,
+  "section": "CH3",
+  "moment": "ship it half-tested",
+  "id": "ch3ship",
+  "file": "frames/49_2-32.0_ch3ship.png",
+  "code": "frames/chorus.js · chShip"
+ },
+ {
+  "n": 50,
+  "time": "2:33.6",
+  "t": 153.6,
+  "section": "CH3",
+  "moment": "can’t fall behind",
+  "id": "ch3china",
+  "file": "frames/50_2-33.6_ch3china.png",
+  "code": "frames/chorus.js · chChina"
+ },
+ {
+  "n": 51,
+  "time": "2:35.8",
+  "t": 155.8,
+  "section": "CH3",
+  "moment": "add a point · band stops",
+  "id": "ch3hook",
+  "file": "frames/51_2-35.8_ch3hook.png",
+  "code": "frames/chorus.js · chHook"
+ },
+ {
+  "n": 52,
+  "time": "2:39.5",
+  "t": 159.5,
+  "section": "BRIDGE",
+  "moment": "27 notes to its own address",
+  "id": "notes",
+  "file": "frames/52_2-39.5_notes.png",
+  "code": "frames/bridge.js · fNotes"
+ },
+ {
+  "n": 53,
+  "time": "2:46.0",
+  "t": 166.0,
+  "section": "BRIDGE",
+  "moment": "flagged in 15, out through DNS",
+  "id": "dns",
+  "file": "frames/53_2-46.0_dns.png",
+  "code": "frames/bridge.js · fDNS"
+ },
+ {
+  "n": 54,
+  "time": "2:52.5",
+  "t": 172.5,
+  "section": "BRIDGE 2 (hush)",
+  "moment": "rogue swarms",
+  "id": "swarm",
+  "file": "frames/54_2-52.5_swarm.png",
+  "code": "frames/bridge.js · fSwarm"
+ },
+ {
+  "n": 55,
+  "time": "2:58.5",
+  "t": 178.5,
+  "section": "BRIDGE 2",
+  "moment": "Stargate, grid under stress",
+  "id": "grid",
+  "file": "frames/55_2-58.5_grid.png",
+  "code": "frames/bridge.js · fGrid"
+ },
+ {
+  "n": 56,
+  "time": "3:03.5",
+  "t": 183.5,
+  "section": "BRIDGE 2",
+  "moment": "families read the chat logs",
+  "id": "logs",
+  "file": "frames/56_3-03.5_logs.png",
+  "code": "frames/bridge.js · fLogs"
+ },
+ {
+  "n": 57,
+  "time": "3:07.5",
+  "t": 187.5,
+  "section": "BRIDGE 2",
+  "moment": "“enough predictions”, flew blind",
+  "id": "blind",
+  "file": "frames/57_3-07.5_blind.png",
+  "code": "frames/bridge.js · fBlind"
+ },
+ {
+  "n": 58,
+  "time": "3:10.5",
+  "t": 190.5,
+  "section": "BREAKDOWN",
+  "moment": "laughing it off all year",
+  "id": "allyear",
+  "file": "frames/58_3-10.5_allyear.png",
+  "code": "frames/bridge.js · fAllYear"
+ },
+ {
+  "n": 59,
+  "time": "3:15.0",
+  "t": 195.0,
+  "section": "BREAKDOWN",
+  "moment": "kinda get the appeal (bare)",
+  "id": "confess",
+  "file": "frames/59_3-15.0_confess.png",
+  "code": "frames/core.js · fConfess"
+ },
+ {
+  "n": 60,
+  "time": "3:16.0",
+  "t": 196.0,
+  "section": "FINAL",
+  "moment": "zoom, zoom! (a cappella)",
+  "id": "ch4zoom",
+  "file": "frames/60_3-16.0_ch4zoom.png",
+  "code": "frames/chorus.js · chZoom"
+ },
+ {
+  "n": 61,
+  "time": "3:18.8",
+  "t": 198.8,
+  "section": "FINAL",
+  "moment": "nobody steering (band slams back)",
+  "id": "ch4capex",
+  "file": "frames/61_3-18.8_ch4capex.png",
+  "code": "frames/chorus.js · chCapex"
+ },
+ {
+  "n": 62,
+  "time": "3:21.5",
+  "t": 201.5,
+  "section": "FINAL",
+  "moment": "the cliff edge is nearing",
+  "id": "ch4pause",
+  "file": "frames/62_3-21.5_ch4pause.png",
+  "code": "frames/chorus.js · chPause"
+ },
+ {
+  "n": 63,
+  "time": "3:23.6",
+  "t": 203.6,
+  "section": "FINAL",
+  "moment": "ship it half-tested",
+  "id": "ch4ship",
+  "file": "frames/63_3-23.6_ch4ship.png",
+  "code": "frames/chorus.js · chShip"
+ },
+ {
+  "n": 64,
+  "time": "3:25.2",
+  "t": 205.2,
+  "section": "FINAL",
+  "moment": "who’s left behind?",
+  "id": "ch4china",
+  "file": "frames/64_3-25.2_ch4china.png",
+  "code": "frames/chorus.js · chChina"
+ },
+ {
+  "n": 65,
+  "time": "3:27.5",
+  "t": 207.5,
+  "section": "FINAL",
+  "moment": "add a point · a cappella stop",
+  "id": "ch4hook",
+  "file": "frames/65_3-27.5_ch4hook.png",
+  "code": "frames/chorus.js · chHook"
+ },
+ {
+  "n": 66,
+  "time": "3:29.2",
+  "t": 209.2,
+  "section": "FINAL",
+  "moment": "who can tell? · the estimates",
+  "id": "who",
+  "file": "frames/66_3-29.2_who.png",
+  "code": "frames/ending.js · fWhoScatter"
+ },
+ {
+  "n": 67,
+  "time": "3:30.8",
+  "t": 210.8,
+  "section": "FINAL",
+  "moment": "the warning shot sold for 12.9",
+  "id": "final",
+  "file": "frames/67_3-30.8_final.png",
+  "code": "frames/core.js · fFinal"
+ },
+ {
+  "n": 68,
+  "time": "3:34.0",
+  "t": 214.0,
+  "section": "FINAL",
+  "moment": "we’ll be fine · held over the shred",
+  "id": "fine",
+  "file": "frames/68_3-34.0_fine.png",
+  "code": "frames/ending.js · fFineHeld"
+ },
+ {
+  "n": 69,
+  "time": "3:37.0",
+  "t": 217.0,
+  "section": "OUTRO",
+  "moment": "drop + laugh",
+  "id": "outrodrop",
+  "file": "frames/69_3-37.0_outrodrop.png",
+  "code": "frames/inst.js · fOutroDrop"
+ },
+ {
+  "n": 70,
+  "time": "3:44.0",
+  "t": 224.0,
+  "section": "OUTRO",
+  "moment": "lone synth",
+  "id": "outrolone",
+  "file": "frames/70_3-44.0_outrolone.png",
+  "code": "frames/inst.js · fOutroLone"
+ },
+ {
+  "n": 71,
+  "time": "3:48.4",
+  "t": 228.4,
+  "section": "HARD CUT",
+  "moment": "1 s of silence",
+  "id": "end",
+  "file": "frames/71_3-48.4_end.png",
+  "code": "frames/inst.js · fEnd"
+ }
+]

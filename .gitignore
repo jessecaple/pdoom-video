@@ -1,0 +1,7 @@
+# Renders (the master is on YouTube; re-render with tools/render)
+release/*.mp4
+video/out/
+
+# Installed dependencies and caches (analysis/ has its own .gitignore)
+node_modules/
+__pycache__/

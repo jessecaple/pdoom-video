@@ -1,0 +1,61 @@
+Zoom Zoom P(doom): a year of real AI news (Jan–Sep 2026)
+
+⚠️ Contains fast cuts, glitch effects and some flashing.
+
+Every number, date and quote on screen is from the public record as of Sep 28, 2026. Reported and estimated figures are labelled as such on screen. Sources below.
+
+Music: Suno v6-wild
+Lyrics: Claude Opus 5.5
+Video: Claude Opus 5.5 (code-rendered)
+Code: https://github.com/jessecaple/pdoom-video
+
+0:00 Intro
+0:07 January–April
+0:33 Chorus: the finish
+0:54 May–July
+1:12 Chorus: the deadline
+1:33 The solo
+1:45 July–September
+2:23 Chorus: the red line
+2:37 Bridge
+3:08 The cliff edge
+3:35 Outro
+
+SOURCES
+Grok paywall: https://www.nbcnews.com/tech/internet/x-paywall-ai-image-grok-app-bikini-allows-sexual-deepfakes-rcna252647
+Mexico hack: https://theweatherreport.ai/posts/gambit-security-mexico-hack/
+Moltbook: https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys
+Sharma letter: https://x.com/MrinankSharma/status/2020881722003583421
+Florida probe: https://www.npr.org/2026/04/21/nx-s1-5793967/florida-openai-investigation-mass-shooting-fsu
+Blacklist: https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude
+Mythos Preview: https://red.anthropic.com/2026/mythos-preview/
+Capex: https://mlq.ai/news/big-techs-2026-capex-range-reaches-720-billion-to-745-billion/
+RSP v3.0: https://www.anthropic.com/responsible-scaling-policy/rsp-v3-0
+Evaluators: https://www.iaps.ai/research/evaluation-awareness-why-frontier-ai-models-are-getting-harder-to-test
+DeepSeek V4: https://api-docs.deepseek.com/news/news260424/
+AI layoffs: https://www.challengergray.com/wp-content/uploads/2026/06/Challenger-Report-May-2026.pdf
+Mythos 5 incident: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+JadePuffer: https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion
+Hugging Face breach: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+The ship (CNN): https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship
+Pacing letter: https://pacingthefrontier.com
+Mythos 5.1: https://www.anthropic.com/claude-fable-and-mythos-5-1
+Coxon: https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/
+"HOAX" / chips: https://www.nbcnews.com/business/markets/stocks-tumble-ai-leaders-warning-slowdown-ipos-amodei-altman-rcna597643
+Hubinger: https://x.com/EvanHub/status/2097497037956891126
+DC Circuit: https://law.justia.com/cases/federal/appellate-courts/cadc/26-1049/26-1049-2026-09-25.html
+Sock puppets (AISI): https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing
+Research intern: https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern/
+DNS escape / pause: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/
+Hinton: https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330
+Astra "Critical": https://www.helpnetsecurity.com/2026/08/10/openai-astra-critical-cyber-capabilities/
+An Alien Mind: https://openai.com/index/an-alien-mind/
+27 notes: https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/
+Pace the Frontier: https://darioamodei.com/post/we-must-pace-the-frontier
+Stargate Abilene: https://epoch.ai/data/ai-data-centers/directory/openai-stargate-abilene
+Court cases: https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit
+"Enough predictions": https://officechai.com/ai/geoffrey-hinton-should-stop-making-predictions-all-his-predictions-have-been-wrong-nvidia-ceo-jensen-huang/
+Entry-level jobs: https://www.reveliolabs.com/news/macro/is-ai-responsible-for-the-rise-in-entry-level-unemployment
+p(doom) estimates: https://gizmodo.com/pdoom-is-just-vibes-masquerading-as-science-2000812009
+Nvidia–Hugging Face: https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/
+MIRI: https://intelligence.org/2026/09/16/if-anyone-builds-it-everyone-dies-one-year-closer/

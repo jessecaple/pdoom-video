@@ -1,0 +1,29 @@
+[project]
+name = "pdoom1-allin1"
+version = "0.1.0"
+description = "Separate env for All-In-One (allin1) structure analysis (jdf fork: NATTEN optional, plain-PyTorch neighborhood attention)"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "torch==2.5.*",
+    "torchaudio==2.5.*",
+    "numpy<2",
+    "cython",
+    "madmom @ git+https://github.com/CPJKU/madmom@27f032e8947204902c675e5e341a3faf5dc86dae",
+    "allin1 @ git+https://github.com/jdf/all-in-one@3646cafab37c8a3002463a015fb7b231d30944dd",
+    "demucs>=4.0.1",
+    "soundfile",
+]
+
+[tool.uv]
+package = false
+python-preference = "only-managed"
+environments = ["sys_platform == 'linux' and platform_machine == 'x86_64'"]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchaudio = { index = "pytorch-cpu" }
