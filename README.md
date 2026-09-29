@@ -2,7 +2,7 @@
 
 A hyperpop song about a year of real AI news (January to September 2026), one event per line, with a music video drawn entirely in code.
 
-**Watch:** [YouTube link]
+**Watch:** https://youtu.be/I-C0VLlUGI4
 
 - **Music:** Suno v6-wild
 - **Lyrics:** Claude Opus 5.5
@@ -49,4 +49,4 @@ To preview live, run `node tools/render/serve.mjs` and open `http://127.0.0.1:84
 
 ## License
 
-[MIT](LICENSE). Everything here, including the song, is free to use for anything.
+The code and docs are [MIT](LICENSE). The song (`song.wav`) is dedicated to the public domain under CC0, subject to Suno's terms (see [LICENSE](LICENSE)).
