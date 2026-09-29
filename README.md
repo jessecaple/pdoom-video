@@ -46,3 +46,7 @@ node tools/render/render.mjs --page "video/index.html?motion=1" --clip 0:229.6 -
 ```
 
 To preview live, run `node tools/render/serve.mjs` and open `http://127.0.0.1:8431/video/index.html?motion=1`.
+
+## License
+
+[MIT](LICENSE). Everything here, including the song, is free to use for anything.
