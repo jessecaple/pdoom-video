@@ -1,4 +1,4 @@
-Zoom Zoom P(doom): a year of AI news (Jan–Sep 2026)
+P(doom)er Hyperslop: a year of AI news (Jan–Sep 2026)
 
 ⚠️ Contains fast cuts, glitch effects and some flashing.
 
@@ -6,7 +6,7 @@ Music: Suno V6-WILD
 Lyrics & Video: Claude Opus 5.5 (code-rendered)
 Code: https://github.com/jessecaple/pdoom-video
 
-Sources for every line is in annotations.md in the github repo.
+SOURCES: https://github.com/jessecaple/pdoom-video/blob/main/annotations.md
 
 0:00 Intro
 0:07 January–April
@@ -17,5 +17,5 @@ Sources for every line is in annotations.md in the github repo.
 1:45 July–September
 2:23 Chorus: the red line
 2:37 Bridge
-3:08 The cliff edge
+3:08 Chorus: the cliff edge
 3:35 Outro

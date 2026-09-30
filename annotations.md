@@ -1,6 +1,6 @@
-# Zoom Zoom P(doom): annotation sheet
+# P(doom)er Hyperslop: annotation sheet
 
-**What the song is.** *Zoom Zoom P(doom)* is our own pop song, with a synth-pop version (about 120 BPM) and a hyperpop version (about 152 BPM). A cheeky narrator who half-believes it walks through 2026 in order: Verse 1 covers January to April, Verse 2 May to July, and Verse 3 late July to September. Almost every line points at one real event. Each chorus adds a point to the narrator's p(doom), and the final chorus asks "who can tell?" Facts are current as of Sep 27, 2026, except rows marked "Corrected Sep 28," which were updated from line-by-line research that day. They come from the project research notes, corrected by an independent fact-check. Source wording is paraphrased, and quotes are under 15 words.
+**What the song is.** *P(doom)er Hyperslop* (originally *Zoom Zoom P(doom)*) is our own pop song, with a synth-pop version (about 120 BPM) and a hyperpop version (about 152 BPM). A cheeky narrator who half-believes it walks through 2026 in order: Verse 1 covers January to April, Verse 2 May to July, and Verse 3 late July to September. Almost every line points at one real event. Each chorus adds a point to the narrator's p(doom), and the final chorus asks "who can tell?" Facts are current as of Sep 27, 2026, except rows marked "Corrected Sep 28," which were updated from line-by-line research that day. They come from the project research notes, corrected by an independent fact-check. Source wording is paraphrased, and quotes are under 15 words.
 
 **Names and nicknames used in the lyric**
 - **Dario** is Dario Amodei, CEO of Anthropic.

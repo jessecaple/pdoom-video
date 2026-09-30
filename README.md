@@ -1,6 +1,8 @@
-# Zoom Zoom P(doom)
+# P(doom)er Hyperslop
 
 A hyperpop song about a year of real AI news (January to September 2026), one event per line, with a music video drawn entirely in code.
+
+It was originally titled *Zoom Zoom P(doom)*, after the chorus hook. Older files and the label in the video's outro still use that name.
 
 **Watch:** https://youtu.be/I-C0VLlUGI4
 

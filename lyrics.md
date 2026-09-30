@@ -1,4 +1,4 @@
-# Zoom Zoom P(doom)
+# P(doom)er Hyperslop
 (bright synth-pop, ~120 BPM, two bars per line; cheeky narrator who half-believes it; one real 2026 event per line)
 
 [Verse 1: January to April]

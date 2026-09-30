@@ -55,8 +55,8 @@ export function fThumb(g, ctx, t, bg) {
   box(g, 0, 0, W, H, 'rgba(11,11,11,0.55)');
   tear(g, 4401, 14, 160, 0, H);
   box(g, 0, 230, W, 620, INK);
-  text(g, 'ZOOM ZOOM', 70, 520, { font: NARROW, size: 300, color: PAPER, sx: 0.92 });
-  text(g, 'P(DOOM)', 70, 790, { font: NARROW, size: 260, color: RED, sx: 0.92 });
+  text(g, 'P(DOOM)ER', 70, 520, { font: NARROW, size: 300, color: PAPER, sx: 0.92 });
+  text(g, 'HYPERSLOP', 70, 790, { font: NARROW, size: 260, color: RED, sx: 0.92 });
   text(g, '2026 · A YEAR OF AI NEWS', 1850, 740, { font: MONO, size: 36, color: PAPER, align: 'right' });
   text(g, 'ON THE RECORD', 1850, 790, { font: MONO, size: 36, color: GREY, align: 'right' });
   tear(g, 4402, 3, 22, 240, 840);

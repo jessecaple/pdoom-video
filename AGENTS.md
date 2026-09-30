@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo holds the song "Zoom Zoom P(doom)" and its code-rendered music video ("THE RECORD"). The video is finished and published, so assume any change is a small fix unless you're told otherwise. [README.md](README.md) covers the project and the folder layout.
+This repo holds the song "P(doom)er Hyperslop" (originally "Zoom Zoom P(doom)", the name older files and the video's outro label still use) and its code-rendered music video ("THE RECORD"). The video is finished and published, so assume any change is a small fix unless you're told otherwise. [README.md](README.md) covers the project and the folder layout.
 
 ## Hard rules
 - **Never put an invented or inaccurate fact on screen.** Every number, date and quote must already be in [video/FACTS.md](video/FACTS.md), sourced in `research/lines/`, and consistent with `annotations.md`. The FACTS.md rules apply:
